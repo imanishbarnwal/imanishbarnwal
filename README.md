@@ -7,10 +7,10 @@ This is Manish, I'm a student 👨‍💻 who is passionate about Machine Learni
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Unity
 - 💬 Ask me about: tech, memes, webseries
+- 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, C, C++
 
-⭐️ This README inspired from [KunalRaghav](https://github.com/KunalRaghav)
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
