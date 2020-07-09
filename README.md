@@ -10,7 +10,7 @@ I'm Manish Kumar Barnwal, I'm a student 👨‍💻 who is passionate about Mach
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, C, C++
 
-
+⭐️ This README inspired from [KunalRaghav](https://github.com/KunalRaghav)
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
