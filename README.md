@@ -6,7 +6,7 @@ This is Manish, I'm a student 👨‍💻 who is passionate about Machine Learni
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Unity
-- 💬 Ask me about: tech, memes, webserires
+- 💬 Ask me about: tech, memes, webseries
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, C, C++
 
