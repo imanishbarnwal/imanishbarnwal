@@ -1,3 +1,5 @@
+![](https://github.com/imanishbarnwal/imanishbarnwal/blob/master/cover.png)
+
 # Hi there 👋,
 
 [![Twitter Badge](http://img.shields.io/badge/-@imanishbarnwal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
