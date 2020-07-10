@@ -13,8 +13,7 @@ This is Manish, I'm a student 👨‍💻 who is passionate about Machine Learni
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, C, C++
-- 🤪 Fun fact: If Facebook was a country, it would have 1 billion more people than China.
-
+- 🤪 Fun fact: I love to travel and meet new people.
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
