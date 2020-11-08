@@ -36,6 +36,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://manishbarnwal.tech)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=imanishbarnwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
