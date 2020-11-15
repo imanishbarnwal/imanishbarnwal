@@ -7,6 +7,9 @@
 
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
 
+
+<img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/imanishbarnwal/imanishbarnwal/master/coder.gif" />
+
 ### About me :eyes:
 
 - 🔭 I’m currently working on AR/VR Projects
@@ -18,6 +21,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 😄 Pronouns: he/him
 - ⚡ Languages: Python3, C, C++
 - 🤪 Fun fact: I love to travel and meet new people.
+
+![](https://komarev.com/ghpvc/?username=imanishbarnwal&style=plastic)
 
 ### Spotify Playing 🎧
 
@@ -63,7 +68,13 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 ---
 
+### ⚡ Github Stats
+
+<details>	
+  
 <img src="https://github-readme-stats.vercel.app/api?username=imanishbarnwal&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+</details>
 
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
