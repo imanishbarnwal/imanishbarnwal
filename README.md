@@ -46,9 +46,6 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 <!-- BLOG-POST-LIST:START -->
 - [Completed Hacktobefest Challenge](https://dev.to/manishbarnwal/completed-hacktobefest-challenge-5194)
-- [Black Lives Matter | VR Edition](https://www.manishbarnwal.tech/black-lives-matter/)
-- [Flower Of Life | VR Edition](https://www.manishbarnwal.tech/flower-of-life/)
-- [JioMeet VS Zoom| You should know these facts](https://www.manishbarnwal.tech/jiomeet-vs-zoom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://manishbarnwal.tech)
