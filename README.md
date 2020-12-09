@@ -15,7 +15,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 🔭 I’m currently working on AR/VR Projects
 - 🌱 I’m currently learning Android Development
 - 💬 Ask me about: tech, memes, webseries
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
