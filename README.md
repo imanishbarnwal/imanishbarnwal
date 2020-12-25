@@ -45,6 +45,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Your Own Twitter Bot using Python](https://manishbarnwal.tech/make-your-own-twitter-bot-using-python)
 - [Black Lives Matter | VR Edition](https://manishbarnwal.tech/black-lives-matter)
 - [Completed Hacktobefest Challenge](https://dev.to/manishbarnwal/completed-hacktobefest-challenge-5194)
 <!-- BLOG-POST-LIST:END -->
