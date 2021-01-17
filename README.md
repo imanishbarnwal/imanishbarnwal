@@ -45,10 +45,10 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Experience In MLH Local Hack Day: Build | Tech-Bubble](https://dev.to/manishbarnwal/my-experience-in-mlh-local-hack-day-build-tech-bubble-39al)
 - [My Experience in the Hacker Community | MLH LHD: Build](https://manishbarnwal.tech/experience-in-hacker-community)
 - [Microsoft Learn Student Ambassador, SELECTED](https://manishbarnwal.tech/microsoft-learn-student-ambassador)
 - [Make Your Own Twitter Bot using Python](https://manishbarnwal.tech/make-your-own-twitter-bot-using-python)
-- [Black Lives Matter | VR Edition](https://manishbarnwal.tech/black-lives-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://manishbarnwal.tech)
