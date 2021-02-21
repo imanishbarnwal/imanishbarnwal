@@ -58,10 +58,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Microsoft Learn Student Ambassador Application [SELECTED]](https://www.youtube.com/watch?v=os6GucVenSY)
-- [Unboxing Environment Friendly Swags!!! By FACEBOOK #BuildwithFacebook](https://www.youtube.com/watch?v=mkMOgsdpYM0)
 - [Make Twitter Retweet Bot in 15 Minutes Using Python 🤖 | Tweepy](https://www.youtube.com/watch?v=lJdH9WWkd24)
-- [GirlScript Contributors Meet 2020](https://www.youtube.com/watch?v=RjM-aEwL-KE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCfpqdFu1khxUN54jiwdF3zQ)
