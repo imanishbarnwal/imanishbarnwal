@@ -2,7 +2,7 @@
 
 ![Name](name.png)
 
-[![Twitter Badge](http://img.shields.io/badge/-@imanishbarnwal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
+[![Twitter Badge](http://img.shields.io/badge/-@imanishbarnwal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal) [![GitHub followers](https://img.shields.io/github/followers/imanishbarnwal?label=Follow&style=social)](https://github.com/imanishbarnwal/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-hello@manishbarnwal.tech-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hello@manishbarnwal.tech)](mailto:hello@manishbarnwal.tech) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal) [![website](https://img.shields.io/badge/Website-manishbarnwal.tech-2648ff?style=flat-square&logo=google-chrome)](https://manishbarnwal.tech)
 
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
@@ -23,6 +23,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 🤪 Fun fact: I love to travel and meet new people.
 
 ![](https://komarev.com/ghpvc/?username=imanishbarnwal&style=plastic)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imanishbarnwal)
 
 ### Spotify Playing 🎧
 
@@ -40,7 +41,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></p></br>
 
----
+### ✨ Blogs & Videos
+<details>
 
 ### 📕 Latest Blog Posts
 
@@ -67,6 +69,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ➡️ [more videos...](https://www.youtube.com/channel/UCfpqdFu1khxUN54jiwdF3zQ)
 
 ---
+</details>
 
 ### ⚡ Github Stats
 
@@ -76,6 +79,11 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_border=true&layout=compact&langs_count=8">
 </details>
 
+<!--footer-->
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/imanishbarnwal) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
