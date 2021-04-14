@@ -44,7 +44,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ### ✨ Blogs & Videos
 <details>
 
-### 📕 Latest Blog Posts
+#### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [My Experience In MLH Local Hack Day: Build | Tech-Bubble](https://dev.to/manishbarnwal/my-experience-in-mlh-local-hack-day-build-tech-bubble-39al)
@@ -57,7 +57,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 ---
 
-### 📺 Latest YouTube Videos
+#### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Microsoft Learn Student Ambassador Application [SELECTED]](https://www.youtube.com/watch?v=os6GucVenSY)
