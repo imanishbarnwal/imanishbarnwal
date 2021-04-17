@@ -77,6 +77,9 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
   
 <img src="https://github-readme-stats.vercel.app/api?username=imanishbarnwal&show_icons=true&hide_border=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanishbarnwal&show_icons=true&hide_border=true">
+</p>  
 </details>
 
 <!--footer-->
