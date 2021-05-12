@@ -47,8 +47,6 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience In MLH Local Hack Day: Build | Tech-Bubble](https://dev.to/manishbarnwal/my-experience-in-mlh-local-hack-day-build-tech-bubble-39al)
-- [Completed Hacktobefest Challenge](https://dev.to/manishbarnwal/completed-hacktobefest-challenge-5194)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blogs.manishbarnwal.tech)
