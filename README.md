@@ -51,7 +51,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - [Completed Hacktobefest Challenge](https://dev.to/manishbarnwal/completed-hacktobefest-challenge-5194)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://manishbarnwal.tech)
+➡️ [more blog posts...](https://blogs.manishbarnwal.tech)
 
 ---
 
