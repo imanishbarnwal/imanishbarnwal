@@ -61,10 +61,10 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Cloud Ready Facilitator Schwags Unboxing | #GoogleCloudReady 🎉](https://www.youtube.com/watch?v=gqPO5pKRiKc)
 - [International Yoga Day | NCC No.4 WB (T) Air SQN](https://www.youtube.com/watch?v=SUraSOuWBJo)
 - [Workshop on Microsoft Azure Fundamentals | MLSA | Manish Kumar Barnwal](https://www.youtube.com/watch?v=y5f4pf1t8sY)
 - [Microsoft Learn Student Ambassador Swag Kit Unboxing!! | MLSA Beta 🔥🔥](https://www.youtube.com/watch?v=b0UjXY1Lbko)
-- [Microsoft Learn Student Ambassador Application [SELECTED]](https://www.youtube.com/watch?v=os6GucVenSY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCfpqdFu1khxUN54jiwdF3zQ)
