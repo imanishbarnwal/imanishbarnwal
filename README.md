@@ -50,8 +50,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <!-- BLOG-POST-LIST:START -->
 - [My Experience in LFX Mentorship Program with OpenDaylight](https://blogs.imanishbarnwal.tech/lfx-mentorship-program)
 - [CovidOff | Covid19 Lead Generation Platform](https://blogs.imanishbarnwal.tech/covidoff)
-- [My Experience In MLH Local Hack Day: Build | Tech-Bubble](https://dev.to/manishbarnwal/my-experience-in-mlh-local-hack-day-build-tech-bubble-39al)
 - [My Experience in the Hacker Community | MLH LHD: Build](https://blogs.imanishbarnwal.tech/experience-in-hacker-community)
+- [Microsoft Learn Student Ambassador, SELECTED](https://blogs.imanishbarnwal.tech/microsoft-learn-student-ambassador)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blogs.manishbarnwal.tech)
