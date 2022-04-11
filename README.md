@@ -85,6 +85,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ![Manish's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=imanishbarnwal&theme=dracula) 
 </details>
 
+![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif)
+
 <!--footer-->
 
 ##
