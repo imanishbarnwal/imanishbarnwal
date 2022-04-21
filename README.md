@@ -16,7 +16,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 🔭 I’m currently working on [@opendaylight](https://github.com/opendaylight)
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 💬 Ask me about: tech, memes, webseries
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
