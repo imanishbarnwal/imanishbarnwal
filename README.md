@@ -54,7 +54,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - [My Experience in the Hacker Community | MLH LHD: Build](https://blogs.imanishbarnwal.com/experience-in-hacker-community)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blogs.manishbarnwal.tech)
+➡️ [more blog posts...](https://blogs.manishbarnwal.com)
 
 ---
 
