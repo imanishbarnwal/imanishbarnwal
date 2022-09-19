@@ -61,10 +61,10 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [API 101 with Postman by Manish Kumar Barnwal](https://www.youtube.com/watch?v=MZAG77KtZz4)
 - [How to install Oracle Express Edition in Ubuntu](https://www.youtube.com/watch?v=NpwNV26Nlq0)
 - [GitHub Campus Expert 🚩Video Application [SELECTED]](https://www.youtube.com/watch?v=SvZdZC0RIlI)
 - [GitHub Campus Expert 🚩 Swags Unboxing!!](https://www.youtube.com/watch?v=948Y9kh1BNA)
-- [Google Cloud Ready Facilitator Schwags Unboxing | #GoogleCloudReady 🎉](https://www.youtube.com/watch?v=gqPO5pKRiKc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCfpqdFu1khxUN54jiwdF3zQ)
