@@ -72,7 +72,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ---
 </details>
 
-### ⚡ Github Stats
+### ⚡ My Github Stats
 
 <details>	
   
@@ -92,7 +92,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 <!-- ## Recent GitHub Activity -->
 
-### ⚡ Github Activity
+### ⚡ My Github Recent Activity
 <details>
 	
 <!--START_SECTION:activity-->
