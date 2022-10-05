@@ -107,7 +107,6 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 9. ❗️ Opened issue [#187](https://github.com/onecompiler/cheatsheets/issues/187) in [onecompiler/cheatsheets](https://github.com/onecompiler/cheatsheets)
 10. 🗣 Commented on [#52](https://github.com/hack4bengal/hack4bengal.github.io/issues/52) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
 <!--END_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/1) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
 	
 </details>
 
