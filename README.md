@@ -96,7 +96,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/hack4bengal/hack4bengal.github.io/issues/55) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+1. 🗣 Commented on [#56](https://github.com/hack4bengal/hack4bengal.github.io/issues/56) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
 <!--END_SECTION:activity-->
 	
 </details>
