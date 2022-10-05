@@ -97,6 +97,17 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 	
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/1) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+2. 🗣 Commented on [#56](https://github.com/hack4bengal/hack4bengal.github.io/issues/56) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+3. ❗️ Opened issue [#56](https://github.com/hack4bengal/hack4bengal.github.io/issues/56) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+4. 🗣 Commented on [#53](https://github.com/hack4bengal/hack4bengal.github.io/issues/53) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+5. 💪 Opened PR [#217](https://github.com/onecompiler/cheatsheets/pull/217) in [onecompiler/cheatsheets](https://github.com/onecompiler/cheatsheets)
+6. 🗣 Commented on [#55](https://github.com/hack4bengal/hack4bengal.github.io/issues/55) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+7. 🗣 Commented on [#54](https://github.com/hack4bengal/hack4bengal.github.io/issues/54) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+8. 🗣 Commented on [#46](https://github.com/hack4bengal/hack4bengal.github.io/issues/46) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+9. ❗️ Opened issue [#187](https://github.com/onecompiler/cheatsheets/issues/187) in [onecompiler/cheatsheets](https://github.com/onecompiler/cheatsheets)
+10. 🗣 Commented on [#52](https://github.com/hack4bengal/hack4bengal.github.io/issues/52) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+<!--END_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/1) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
 	
 </details>
 
