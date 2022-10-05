@@ -97,7 +97,6 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 	
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/1) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-<!--END_SECTION:activity-->
 	
 </details>
 
