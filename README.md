@@ -96,16 +96,16 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/hack4bengal/hack4bengal.github.io/issues/61) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-2. 🗣 Commented on [#62](https://github.com/hack4bengal/hack4bengal.github.io/issues/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-3. 🗣 Commented on [#63](https://github.com/hack4bengal/hack4bengal.github.io/issues/63) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-4. ❗️ Closed issue [#30](https://github.com/hack4bengal/hack4bengal.github.io/issues/30) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-5. 🎉 Merged PR [#63](https://github.com/hack4bengal/hack4bengal.github.io/pull/63) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-6. 🗣 Commented on [#30](https://github.com/hack4bengal/hack4bengal.github.io/issues/30) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-7. 🗣 Commented on [#60](https://github.com/hack4bengal/hack4bengal.github.io/issues/60) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-8. ❗️ Opened issue [#61](https://github.com/hack4bengal/hack4bengal.github.io/issues/61) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-9. ❗️ Opened issue [#60](https://github.com/hack4bengal/hack4bengal.github.io/issues/60) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-10. ❗️ Closed issue [#48](https://github.com/hack4bengal/hack4bengal.github.io/issues/48) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+1. 🗣 Commented on [#65](https://github.com/hack4bengal/hack4bengal.github.io/issues/65) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+2. 🎉 Merged PR [#66](https://github.com/hack4bengal/hack4bengal.github.io/pull/66) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+3. 🎉 Merged PR [#64](https://github.com/hack4bengal/hack4bengal.github.io/pull/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+4. 🗣 Commented on [#64](https://github.com/hack4bengal/hack4bengal.github.io/issues/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+5. 🗣 Commented on [#64](https://github.com/hack4bengal/hack4bengal.github.io/issues/64) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+6. 🎉 Merged PR [#62](https://github.com/hack4bengal/hack4bengal.github.io/pull/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+7. 🗣 Commented on [#62](https://github.com/hack4bengal/hack4bengal.github.io/issues/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+8. 🗣 Commented on [#61](https://github.com/hack4bengal/hack4bengal.github.io/issues/61) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+9. 🗣 Commented on [#62](https://github.com/hack4bengal/hack4bengal.github.io/issues/62) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+10. 🗣 Commented on [#63](https://github.com/hack4bengal/hack4bengal.github.io/issues/63) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
 <!--END_SECTION:activity-->
 	
 </details>
