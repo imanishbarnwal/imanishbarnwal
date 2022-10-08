@@ -96,16 +96,16 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/hack4bengal/hack4bengal.github.io/issues/70) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-2. ❗️ Closed issue [#60](https://github.com/hack4bengal/hack4bengal.github.io/issues/60) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-3. 🎉 Merged PR [#70](https://github.com/hack4bengal/hack4bengal.github.io/pull/70) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-4. ❌ Closed PR [#71](https://github.com/hack4bengal/hack4bengal.github.io/pull/71) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-5. 🗣 Commented on [#71](https://github.com/hack4bengal/hack4bengal.github.io/issues/71) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-6. 🗣 Commented on [#72](https://github.com/hack4bengal/hack4bengal.github.io/issues/72) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-7. 🎉 Merged PR [#4](https://github.com/builders-of-web3/ccu/pull/4) in [builders-of-web3/ccu](https://github.com/builders-of-web3/ccu)
-8. ❗️ Closed issue [#43](https://github.com/hack4bengal/hack4bengal.github.io/issues/43) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-9. 🗣 Commented on [#43](https://github.com/hack4bengal/hack4bengal.github.io/issues/43) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-10. 🗣 Commented on [#69](https://github.com/hack4bengal/hack4bengal.github.io/issues/69) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+1. 🗣 Commented on [#47](https://github.com/hack4bengal/hack4bengal.github.io/issues/47) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+2. 🗣 Commented on [#70](https://github.com/hack4bengal/hack4bengal.github.io/issues/70) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+3. ❗️ Closed issue [#60](https://github.com/hack4bengal/hack4bengal.github.io/issues/60) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+4. 🎉 Merged PR [#70](https://github.com/hack4bengal/hack4bengal.github.io/pull/70) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+5. ❌ Closed PR [#71](https://github.com/hack4bengal/hack4bengal.github.io/pull/71) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+6. 🗣 Commented on [#71](https://github.com/hack4bengal/hack4bengal.github.io/issues/71) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+7. 🗣 Commented on [#72](https://github.com/hack4bengal/hack4bengal.github.io/issues/72) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+8. 🎉 Merged PR [#4](https://github.com/builders-of-web3/ccu/pull/4) in [builders-of-web3/ccu](https://github.com/builders-of-web3/ccu)
+9. ❗️ Closed issue [#43](https://github.com/hack4bengal/hack4bengal.github.io/issues/43) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+10. 🗣 Commented on [#43](https://github.com/hack4bengal/hack4bengal.github.io/issues/43) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
 <!--END_SECTION:activity-->
 	
 </details>
