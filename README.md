@@ -110,6 +110,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 	
 </details>
 
+[![@imanishbarnwal's Holopin board](https://holopin.me/imanishbarnwal)](https://holopin.io/@imanishbarnwal)
+
 <!--footer-->
 
 ##
