@@ -96,16 +96,16 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/11) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-2. 🗣 Commented on [#11](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/11) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-3. 🗣 Commented on [#7](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/7) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-4. 🎉 Merged PR [#5](https://github.com/builders-of-web3/ccu/pull/5) in [builders-of-web3/ccu](https://github.com/builders-of-web3/ccu)
-5. 🗣 Commented on [#72](https://github.com/hack4bengal/hack4bengal.github.io/issues/72) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-6. 🗣 Commented on [#77](https://github.com/hack4bengal/hack4bengal.github.io/issues/77) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-7. 🗣 Commented on [#75](https://github.com/hack4bengal/hack4bengal.github.io/issues/75) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-8. 🗣 Commented on [#79](https://github.com/hack4bengal/hack4bengal.github.io/issues/79) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-9. 🗣 Commented on [#77](https://github.com/hack4bengal/hack4bengal.github.io/issues/77) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
-10. 🗣 Commented on [#78](https://github.com/hack4bengal/hack4bengal.github.io/issues/78) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+1. 🎉 Merged PR [#9](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/9) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+2. 🗣 Commented on [#9](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/9) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+3. 🎉 Merged PR [#11](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/11) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+4. 🗣 Commented on [#11](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/11) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+5. 🗣 Commented on [#7](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/7) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+6. 🎉 Merged PR [#5](https://github.com/builders-of-web3/ccu/pull/5) in [builders-of-web3/ccu](https://github.com/builders-of-web3/ccu)
+7. 🗣 Commented on [#72](https://github.com/hack4bengal/hack4bengal.github.io/issues/72) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+8. 🗣 Commented on [#77](https://github.com/hack4bengal/hack4bengal.github.io/issues/77) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+9. 🗣 Commented on [#75](https://github.com/hack4bengal/hack4bengal.github.io/issues/75) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
+10. 🗣 Commented on [#79](https://github.com/hack4bengal/hack4bengal.github.io/issues/79) in [hack4bengal/hack4bengal.github.io](https://github.com/hack4bengal/hack4bengal.github.io)
 <!--END_SECTION:activity-->
 	
 </details>
