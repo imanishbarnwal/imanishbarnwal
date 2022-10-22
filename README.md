@@ -96,16 +96,16 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/20) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-2. 🗣 Commented on [#19](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/19) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-3. 🎉 Merged PR [#18](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/18) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-4. 🗣 Commented on [#17](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/17) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-5. ❗️ Opened issue [#17](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/17) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-6. 🎉 Merged PR [#16](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/16) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-7. 🎉 Merged PR [#15](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/15) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-8. 🗣 Commented on [#12](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/12) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-9. 🗣 Commented on [#1](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/1) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
-10. ❗️ Closed issue [#10](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/10) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+1. ❗️ Closed issue [#17](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/17) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+2. 🎉 Merged PR [#19](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/19) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+3. ❌ Closed PR [#22](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/22) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+4. 🎉 Merged PR [#21](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/21) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+5. 🎉 Merged PR [#20](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/20) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+6. 🗣 Commented on [#19](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/19) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+7. 🎉 Merged PR [#18](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/18) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+8. 🗣 Commented on [#17](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/17) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+9. ❗️ Opened issue [#17](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/17) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
+10. 🎉 Merged PR [#16](https://github.com/imanishbarnwal/Events-And-Hackathons/pull/16) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
 <!--END_SECTION:activity-->
 	
 </details>
