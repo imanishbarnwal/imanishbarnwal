@@ -96,8 +96,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/imanishbarnwal/H4B-git-github-workshop/issues/12) in [imanishbarnwal/H4B-git-github-workshop](https://github.com/imanishbarnwal/H4B-git-github-workshop)
-2. 🎉 Merged PR [#12](https://github.com/imanishbarnwal/H4B-git-github-workshop/pull/12) in [imanishbarnwal/H4B-git-github-workshop](https://github.com/imanishbarnwal/H4B-git-github-workshop)
+1. 🎉 Merged PR [#1](https://github.com/imanishbarnwal/hacktoberfest-ccu/pull/1) in [imanishbarnwal/hacktoberfest-ccu](https://github.com/imanishbarnwal/hacktoberfest-ccu)
+2. 💪 Opened PR [#1](https://github.com/imanishbarnwal/hacktoberfest-ccu/pull/1) in [imanishbarnwal/hacktoberfest-ccu](https://github.com/imanishbarnwal/hacktoberfest-ccu)
 3. 🎉 Merged PR [#6](https://github.com/builders-of-web3/ccu/pull/6) in [builders-of-web3/ccu](https://github.com/builders-of-web3/ccu)
 4. 🗣 Commented on [#7](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/7) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
 5. ❗️ Closed issue [#17](https://github.com/imanishbarnwal/Events-And-Hackathons/issues/17) in [imanishbarnwal/Events-And-Hackathons](https://github.com/imanishbarnwal/Events-And-Hackathons)
