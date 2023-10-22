@@ -96,16 +96,16 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/hack4bengal/s3/issues/18) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-2. 🗣 Commented on [#2](https://github.com/hack4bengal/s3/issues/2#issuecomment-1774034889) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-3. 🗣 Commented on [#4](https://github.com/hack4bengal/s3/issues/4#issuecomment-1774034627) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-4. 🗣 Commented on [#2](https://github.com/hack4bengal/s3/issues/2#issuecomment-1774005693) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-5. 🗣 Commented on [#8](https://github.com/hack4bengal/s3/issues/8#issuecomment-1774005597) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-6. 🗣 Commented on [#9](https://github.com/hack4bengal/s3/issues/9#issuecomment-1774005370) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-7. 🗣 Commented on [#10](https://github.com/hack4bengal/s3/issues/10#issuecomment-1774004988) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-8. 🔒 Closed issue [#5](https://github.com/hack4bengal/s3/issues/5) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-9. 🗣 Commented on [#5](https://github.com/hack4bengal/s3/issues/5#issuecomment-1774004360) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-10. 🗣 Commented on [#1](https://github.com/hack4bengal/s3/pull/1#issuecomment-1774004126) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+1. 🗣 Commented on [#18](https://github.com/hack4bengal/s3/issues/18#issuecomment-1774056957) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+2. ❗ Opened issue [#18](https://github.com/hack4bengal/s3/issues/18) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+3. 🗣 Commented on [#2](https://github.com/hack4bengal/s3/issues/2#issuecomment-1774034889) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+4. 🗣 Commented on [#4](https://github.com/hack4bengal/s3/issues/4#issuecomment-1774034627) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+5. 🗣 Commented on [#2](https://github.com/hack4bengal/s3/issues/2#issuecomment-1774005693) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+6. 🗣 Commented on [#8](https://github.com/hack4bengal/s3/issues/8#issuecomment-1774005597) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+7. 🗣 Commented on [#9](https://github.com/hack4bengal/s3/issues/9#issuecomment-1774005370) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+8. 🗣 Commented on [#10](https://github.com/hack4bengal/s3/issues/10#issuecomment-1774004988) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+9. 🔒 Closed issue [#5](https://github.com/hack4bengal/s3/issues/5) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
+10. 🗣 Commented on [#5](https://github.com/hack4bengal/s3/issues/5#issuecomment-1774004360) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
 <!--END_SECTION:activity-->
 	
 </details>
