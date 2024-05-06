@@ -96,8 +96,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#36078](https://github.com/brave/brave-browser/issues/36078) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 💪 Opened PR [#428](https://github.com/FlowFans/zealy-campaigns/pull/428) in [FlowFans/zealy-campaigns](https://github.com/FlowFans/zealy-campaigns)
+1. 🎉 Merged PR [#41](https://github.com/hack4bengal/newwebsite/pull/41) in [hack4bengal/newwebsite](https://github.com/hack4bengal/newwebsite)
+2. ❗ Opened issue [#36078](https://github.com/brave/brave-browser/issues/36078) in [brave/brave-browser](https://github.com/brave/brave-browser)
 3. 💪 Opened PR [#402](https://github.com/FlowFans/zealy-campaigns/pull/402) in [FlowFans/zealy-campaigns](https://github.com/FlowFans/zealy-campaigns)
 4. 🗣 Commented on [#8](https://github.com/hack4bengal/s3/issues/8#issuecomment-1783809567) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
 5. 🗣 Commented on [#9](https://github.com/hack4bengal/s3/issues/9#issuecomment-1783005354) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
