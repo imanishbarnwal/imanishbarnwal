@@ -96,9 +96,9 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <details>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/hack4bengal/newwebsite/pull/41) in [hack4bengal/newwebsite](https://github.com/hack4bengal/newwebsite)
-2. ❗ Opened issue [#36078](https://github.com/brave/brave-browser/issues/36078) in [brave/brave-browser](https://github.com/brave/brave-browser)
-3. 💪 Opened PR [#402](https://github.com/FlowFans/zealy-campaigns/pull/402) in [FlowFans/zealy-campaigns](https://github.com/FlowFans/zealy-campaigns)
+1. 🗣 Commented on [#66](https://github.com/cncf/communitygroups/issues/66#issuecomment-2109280033) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. 🎉 Merged PR [#41](https://github.com/hack4bengal/newwebsite/pull/41) in [hack4bengal/newwebsite](https://github.com/hack4bengal/newwebsite)
+3. ❗ Opened issue [#36078](https://github.com/brave/brave-browser/issues/36078) in [brave/brave-browser](https://github.com/brave/brave-browser)
 4. 🗣 Commented on [#8](https://github.com/hack4bengal/s3/issues/8#issuecomment-1783809567) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
 5. 🗣 Commented on [#9](https://github.com/hack4bengal/s3/issues/9#issuecomment-1783005354) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
 6. 🗣 Commented on [#4](https://github.com/hack4bengal/s3/issues/4#issuecomment-1782358430) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
