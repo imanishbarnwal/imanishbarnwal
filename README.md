@@ -1,133 +1,91 @@
-![Hello](Hello.gif)
+# Hi there, I'm Manish 👋
 
-![Name](name.png)
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/imanishbarnwal?style=social)](https://twitter.com/intent/follow?screen_name=imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal) [![GitHub followers](https://img.shields.io/github/followers/imanishbarnwal?label=Follow&style=social)](https://github.com/imanishbarnwal/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-imanishbarnwal@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:imanishbarnwal@gamil.com)](mailto:imanishbarnwal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal)
-
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
-
-
-<img align="right" height="400" width="400" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
-
-### About me :eyes:
-
-- 🔭 I’m currently working on [@opendaylight](https://github.com/opendaylight)
-- 🌱 I’m currently learning Data Structures & Algorithms.
-- 💬 Ask me about: tech, memes, webseries
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 👯 I’m looking to collaborate with new project ideas
-- 📫 How to reach me: Links are given above 🔝
-- 😄 Pronouns: he/him
-- ⚡ Languages: Python, C, C++
-- 🤪 Fun fact: I love to travel and meet new people.
-
-![](https://komarev.com/ghpvc/?username=imanishbarnwal&style=plastic)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imanishbarnwal)
-
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1) -->
-
-### Languages and Tools :computer:
-<p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></p></br>
-
-### ✨ Blogs & Videos
-<details>
-
-#### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Product Feedback: Sanctum Wonderland](https://blogs.imanishbarnwal.com/sanctum-wonderland)
-- [Beyond USDC: Exploring EURC and the Future of Stablecoins](https://blogs.imanishbarnwal.com/future-of-stablecoins)
-- [My Experience with Hashnode AI: A Game-Changer for Technical Writers and Researchers](https://blogs.imanishbarnwal.com/my-experience-with-hashnode-ai)
-- [GitHub Campus Expert 🚩[SELECTED] | Application Process](https://blogs.imanishbarnwal.com/github-campus-expert)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blogs.manishbarnwal.com)
-
----
-
-#### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [API 101 with Postman by Manish Kumar Barnwal](https://www.youtube.com/watch?v=MZAG77KtZz4)
-- [How to install Oracle Express Edition in Ubuntu](https://www.youtube.com/watch?v=NpwNV26Nlq0)
-- [GitHub Campus Expert 🚩Video Application [SELECTED]](https://www.youtube.com/watch?v=SvZdZC0RIlI)
-- [GitHub Campus Expert 🚩 Swags Unboxing!!](https://www.youtube.com/watch?v=948Y9kh1BNA)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCfpqdFu1khxUN54jiwdF3zQ)
-
----
-</details>
-
-### ⚡ My Github Stats
-
-<details>	
+<div align="center">
   
-<p align="center">
-<a href="https://github.com/imanishbarnwal">  
-	<img src="https://github-readme-stats.vercel.app/api?username=imanishbarnwal&show_icons=true&hide_border=true&count_private=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_border=true&layout=compact&langs_count=8">
-</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Developer+Relations+Engineer;10K%2B+Developers+Onboarded;%241M%2B+Hackathons+Organized;Building+Communities+Across+APAC)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanishbarnwal&show_icons=true&hide_border=true">
-</p> 
+[![Website](https://img.shields.io/badge/🌐_imanishbarnwal.com-3B82F6?style=for-the-badge)](https://imanishbarnwal.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/imanishbarnwal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/imanishbarnwal)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode)](https://blogs.imanishbarnwal.com)
 
-![Manish's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=imanishbarnwal&theme=dracula) 
-</details>
+</div>
 
-<!-- ## Recent GitHub Activity -->
+---
 
-### ⚡ My Github Recent Activity
-<details>
-	
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/imanishbarnwal/MoltiGuild/pull/1) in [imanishbarnwal/MoltiGuild](https://github.com/imanishbarnwal/MoltiGuild)
-2. 💪 Opened PR [#1](https://github.com/imanishbarnwal/MoltiGuild/pull/1) in [imanishbarnwal/MoltiGuild](https://github.com/imanishbarnwal/MoltiGuild)
-3. ❗ Opened issue [#36078](https://github.com/brave/brave-browser/issues/36078) in [brave/brave-browser](https://github.com/brave/brave-browser)
-4. 🗣 Commented on [#8](https://github.com/hack4bengal/s3/issues/8#issuecomment-1783809567) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-5. 🗣 Commented on [#9](https://github.com/hack4bengal/s3/issues/9#issuecomment-1783005354) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-6. 🗣 Commented on [#4](https://github.com/hack4bengal/s3/issues/4#issuecomment-1782358430) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-7. 🗣 Commented on [#20](https://github.com/hack4bengal/s3/pull/20#issuecomment-1779438987) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-8. 🎉 Merged PR [#20](https://github.com/hack4bengal/s3/pull/20) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-9. 🗣 Commented on [#4](https://github.com/hack4bengal/s3/issues/4#issuecomment-1778659352) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-10. 🗣 Commented on [#28](https://github.com/hack4bengal/s3/issues/28#issuecomment-1778655635) in [hack4bengal/s3](https://github.com/hack4bengal/s3)
-<!--END_SECTION:activity-->
-	
-</details>
+## 🚀 DevRel Engineer @ [HackQuest](https://hackquest.io) | Founder of [Hack4Bengal](https://hack4bengal.tech)
 
-[![@imanishbarnwal's Holopin board](https://holopin.me/imanishbarnwal)](https://holopin.io/@imanishbarnwal)
+Building developer communities across APAC • **10K+ developers trained** • **$1M+ in hackathon prizes** • **100+ events organized**
 
-<!--footer-->
+```javascript
+const manish = {
+  role: "APAC Ecosystem Lead (DevRel)",
+  focus: ["Developer Communities", "Hackathons", "Web3 Education"],
+  achievements: {
+    developers_onboarded: "10,000+",
+    hackathons_organized: "10s of flagship events ($1M+ prizes)",
+    community_built: "Hack4Bengal (7,500+ members)",
+    events_hosted: "100+ workshops & meetups"
+  },
+  recognition: ["ETHIndia Winner 2022 & 2024", "GitHub Campus Expert", 
+                "Linux Foundation Mentee"]
+};
+```
 
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/imanishbarnwal) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<!--
-**imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<div align="center">
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanishbarnwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanishbarnwal&theme=tokyo-night&hide_border=true)
+
+</div>
+
+--- -->
+
+## 🎯 What I Can Help With
+
+**Available for:**
+- 🎤 Speaking at conferences & events
+- 🤝 Hackathon partnerships & sponsorships  
+- 🏗️ DevRel strategy & community building consulting
+- 📚 Technical workshops on Web3/Solidity
+
+---
+
+## 🏔️ Beyond Code
+
+Certified **Paragliding Pilot 🪂** | **Scuba Diver 🤿** | Himalayan trekker | Adventure sports enthusiast
+
+> *The same mindset that drives me toward mountains shapes how I build resilient developer ecosystems.*
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Reach out for speaking opportunities, partnerships, or just to chat about DevRel, Web3, or adventure sports!**
+
+📧 [imanishbarnwal@gmail.com](mailto:imanishbarnwal@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/imanishbarnwal) • 🐦 [X (Twitter)](https://twitter.com/imanishbarnwal) • 🌐 [imanishbarnwal.com](https://imanishbarnwal.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=imanishbarnwal&color=3B82F6&style=flat-square)
+
+</div>
